@@ -123,4 +123,8 @@
 
     ![](Untitled-9d977755-89ae-4ed7-98a3-f2fbddd2eccf.png)
 
+    ## ***앤시블 프로젝트 Git 저장소***
+
+    - https://github.com/ninezero90hy/metansible
+
     # ***감사합니다. :)***
