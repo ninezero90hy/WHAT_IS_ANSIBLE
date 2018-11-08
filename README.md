@@ -1,4 +1,4 @@
-# Seminar Ansible
+# Ansible Seminar
 
 # ***Ansible이란?***
 
