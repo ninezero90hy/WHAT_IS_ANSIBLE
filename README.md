@@ -81,8 +81,7 @@
     - **Inventory** :
         - Playbook이 수행되어야 할 대상에 대한 정의.
         - SSH 접속방법 부터 Global 변수를 선언하거나
-
-            대상을 그룹핑하고 종속관계를 정의할 수도 있음.
+        대상을 그룹핑하고 종속관계를 정의할 수도 있음.
 
     ![](Untitled-8391bf38-f1ab-460d-ad4c-ecc430eb8efe.png)
 
